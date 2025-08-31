@@ -1,0 +1,9 @@
+# questions
+segment:
+  type: str
+  help: "Segment name, e.g. pk, ik, dk, ck"
+
+helm_chart:
+  type: str
+  help: "Helm chart name, e.g. tam-chat"
+
