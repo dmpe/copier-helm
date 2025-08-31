@@ -1,0 +1,1 @@
+https://github.com/fastapi-mvc/copier-project/
