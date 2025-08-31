@@ -1,1 +1,1 @@
-https://github.com/fastapi-mvc/copier-project/
+Partial copy from <https://github.com/fastapi-mvc/copier-project/> and `kube-prometheus-stack` chart.
