@@ -2,8 +2,9 @@
 segment:
   type: str
   help: "Segment name, e.g. pk, ik, dk, ck"
+  default: "pk"
 
 helm_chart:
   type: str
   help: "Helm chart name, e.g. tam-chat"
-
+  default: "tam-chat"
